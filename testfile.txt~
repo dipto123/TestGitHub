@@ -1,0 +1,6 @@
+This is a test file. Testing file upload
+<<<<<<< HEAD
+. Testing for Change For Merge Conflicts
+=======
+. Merge Conflict Testing for Change
+>>>>>>> develop
