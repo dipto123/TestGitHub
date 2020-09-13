@@ -1,6 +1,6 @@
 This is a test file. Testing file upload
 <<<<<<< HEAD
-. Testing for Change For Merge Conflicts
+. Merge Conflict Testing for Change123456789
 =======
-. Merge Conflict Testing for Change
+. 123456789Merge Conflict Testing for Change
 >>>>>>> develop
